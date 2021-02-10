@@ -1,0 +1,10 @@
+import math
+a = int(input("Enter a: "))
+b = int(input("Enter b: "))
+print("Sum of a and b is: ",a+b)
+print("diffrence between b and a: ", b-a)
+print("product of a and b ", a*b)
+print("quotient of a and b ", a/b)
+print("reminder of a and b ", a%b)
+print("log of a based on 10 ",math.log(a,10))
+print("a in the power of b ", a**b)
